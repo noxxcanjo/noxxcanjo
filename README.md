@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Gabriel Arcanjo 🖐️
+## Olá! Eu sou Gabriel Arcanjo, 🖐️
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https:https://www.youtube.com/channel/UCPDCGPMvg12KGd2aXiSo1_Q)
@@ -18,7 +18,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Desenvolvedor Full Stack
 
 <!--
 **noxxcanjo/noxxcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
